@@ -15,7 +15,7 @@ const Subscribe = () => {
           placeholder="muzammilq78@gmail.com"
           className="input"
         />
-        <div className=" flex max-sm:justify-end items-center max-sm:w-full">
+        <div className=" flex max-sm:justify-center items-center max-sm:w-full">
           <Button label="Sign Up" full></Button>
         </div>
       </div>
